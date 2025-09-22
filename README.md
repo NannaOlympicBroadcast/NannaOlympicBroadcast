@@ -1,6 +1,9 @@
-# 涂鸦开发者智能体平台MCP上线pypi啦，可以直接下载
+# Platformio + Arduino + Wokwi 环境模板已经上线
+无板，无痛苦配置环境
 ```shell
-pip install tuya-developer-agent-mcp-sdk
+git clone https://github.com/NannaOlympicBroadcast/piowokwi.git
+cd piowokwi
+code .
 ```
 
 
