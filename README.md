@@ -1,10 +1,8 @@
-# Platformio + Arduino + Wokwi 环境模板已经上线
-无板，无痛苦配置环境
-```shell
-git clone https://github.com/NannaOlympicBroadcast/piowokwi.git
-cd piowokwi
-code .
-```
+# Clawdbot 微信适配器上线
+https://github.com/NannaOlympicBroadcast/clawdbot-wechat-plugin
+
+用clawdbot，争做杨超越
+
 
 
 
